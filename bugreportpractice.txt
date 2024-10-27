@@ -1,0 +1,24 @@
+// teorie
+
+1. Summary / Title
+2. Short description of the bug 
+3. Steps to reproduce
+4. Expected result
+5. Actual result
+6. Prints, Recordings, Logs
+7. Test environment
+8. Application version
+
+// report
+
+1. Add to cart pop-up does not appear when adding product to cart
+2. When cliking on the add to cart button, the "add to cart pop-up" does not appear as expected
+3.  1. Acess the homepage
+    2. Scroll to products
+    3. Click on any "Adauga in cos" button
+    4. Verify if success alert is shown in the top right corner
+4. The "Add to cart pop-up" is shown
+5. The "Add to cart pop-up" is not shown
+6. [insert_prtscrn // insert_rec]
+7. live version (windows-chrome-resolution-ublockorigin)
+8. webapp: Version 130.0.6723.70 (Official Build) (64-bit)
