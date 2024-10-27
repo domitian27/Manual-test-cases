@@ -1,0 +1,10 @@
+// the same altex test case, on a diff device
+
+1. Access home page;
+2. swipe to first product line;
+3. tap on the "Adauga in cos" button (random);
+4. Verify if success alert is shown on the top right side;
+5. Swipe up on top of the page;
+6. tap on the mini cart 
+7. tap on the " vezi cosul" button;
+8. The added product is in cart.
